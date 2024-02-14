@@ -1,0 +1,90 @@
+{
+  message: '2024-02-13T09:41:44.993Z PATCH /cards/65c21bbc4d98a8332875695a 401 2.971 ms',
+  level: 'info'
+}
+{
+  message: {
+    date: '2024-02-13T10:04:52.849Z',
+    method: 'PATCH',
+    url: '/cards/65c21bbc4d98a8332875695a',
+    status: '401',
+    responseTime: '9.644 ms'
+  },
+  level: 'info'
+}
+{
+  message: '2024-02-13T17:24:41.079Z POST /users/login 200 92.608 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-13T17:25:01.464Z DELETE /users/65c33d6a41967e70ffeaf27 400 9.143 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-13T18:11:08.336Z POST /users/login 500 98.504 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-13T18:31:56.497Z POST /users/login 500 114.959 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-13T18:32:47.646Z POST /users/login 200 90.960 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-13T18:45:16.589Z POST /users/login 200 99.275 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-13T18:45:30.882Z POST /users/login 404 5.751 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-13T18:45:54.621Z POST /users/login 200 69.980 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-13T18:46:00.622Z POST /users/login 500 69.187 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-13T18:48:20.755Z POST /users/login 500 109.892 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-13T18:49:01.838Z POST /users/login 401 93.277 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-13T18:49:11.273Z POST /users/login 401 78.688 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-13T18:59:03.915Z POST /users/login 401 96.241 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-13T18:59:17.101Z POST /users/login 401 74.529 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-13T18:59:33.746Z POST /users/login 200 74.849 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-13T18:59:50.720Z POST /users/login 401 68.453 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-13T18:59:53.911Z POST /users/login 401 67.827 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-13T18:59:55.829Z POST /users/login 401 69.306 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-13T19:00:06.367Z POST /users/login 429 8.223 ms',
+  level: 'info'
+}

@@ -1,0 +1,612 @@
+{
+  message: '2024-02-13T23:44:34.837Z POST /users 404 14.764 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-13T23:46:07.354Z POST /users/ 404 1.510 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-13T23:47:08.545Z POST /users 200 93.952 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-13T23:58:13.099Z POST /users 500 88.825 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-13T23:59:47.311Z POST /users 409 96.005 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T00:00:10.931Z POST /users 200 71.477 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T00:04:50.309Z POST /users 200 86.559 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T00:14:09.193Z POST /users/login 401 103.737 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T00:14:55.190Z POST /users/login 200 81.129 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T00:15:15.979Z POST /cards 201 26.352 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T00:36:59.287Z POST /users/login 200 94.759 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T00:37:33.992Z DELETE /cars/65cbb6178db1bd7a444307b3 404 4.409 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T00:37:41.025Z DELETE /cards/65cbb6178db1bd7a444307b3 500 12.114 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T00:40:08.705Z DELETE /cards/65cbb6178db1bd7a444307b3 403 27.488 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T00:40:26.476Z DELETE /cards/65cbb6178db1bd7a444307b3 403 20.787 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T00:40:39.601Z POST /users/login 429 6.824 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T00:41:15.504Z POST /users/login 200 82.339 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T00:41:26.472Z DELETE /users/65c33d6a41967e70ffeaf27 400 3.590 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T00:41:56.054Z DELETE /users/65cbff7c82e4c793e9615a7e 200 6.581 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T00:42:23.115Z DELETE /cards/65cbb6178db1bd7a444307b3 200 7.599 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T00:49:46.648Z POST /users/login 200 97.475 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T00:50:26.895Z PATCH /cards/edit-biznumber/65cbb6178db1bd7a444307b8 200 28.287 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T00:58:18.468Z POST /users/login 200 95.268 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T00:59:52.254Z PUT /cards/65cbb6178db1bd7a444307b8 500 18.704 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T01:00:12.166Z PUT /cards/65cbb6178db1bd7a444307b8 403 22.757 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T01:00:23.739Z PUT /cards/65cbb6178db1bd7a444307b7 404 8.799 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T01:01:10.319Z PUT /cards/65cbb6178db1bd7a444307b8 403 29.421 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T01:04:43.340Z GET /cards 200 8.572 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T01:10:49.040Z POST /users/login 200 90.421 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T01:11:18.185Z GET /cards/my-cards/ 200 8.982 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T01:12:07.574Z GET /cards/my-cards/ 200 4.285 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T01:12:56.218Z GET /cards/my-cards/ 200 13.758 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T01:17:38.651Z GET /cards/65c21bbc4d98a8332875695b 404 15.861 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T01:17:53.350Z GET /cards/65cbb6178db1bd7a444307b8 200 8.094 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T01:26:38.872Z PATCH /cards/65c21bbc4d98a8332875695a 404 18.792 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T01:26:53.946Z PATCH /cards/65cbb6178db1bd7a444307b8 500 12.566 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T01:27:42.615Z PATCH /cards/65cbb6178db1bd7a444307b8 500 30.079 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T01:29:30.497Z PATCH /cards/65cbb6178db1bd7a444307b8 200 24.537 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T01:29:40.116Z PATCH /cards/65cbb6178db1bd7a444307b8 200 9.914 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T01:29:45.624Z PATCH /cards/65cbb6178db1bd7a444307b8 200 12.587 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T01:35:02.544Z PATCH /cards/65cbb6178db1bd7a444307b8 200 30.524 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T01:35:18.674Z PATCH /cards/65cbb6178db1bd7a444307b8 500 25.832 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T01:35:43.858Z PATCH /cards/65cbb6178db1bd7a444307b8 200 22.505 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T01:35:57.535Z PATCH /cards/65cbb6178db1bd7a444307b8 200 11.102 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T07:31:29.453Z POST /users/login 200 107.708 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T07:32:10.929Z DELETE /users/65cc6a49ba5cc0dd83770ffd 403 6.082 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T07:32:23.727Z DELETE /users/65cc6a49ba5cc0dd83770ffa 403 4.090 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T07:32:39.341Z POST /users/login 200 70.572 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T07:32:52.449Z DELETE /users/65cc6a49ba5cc0dd83770ffh 400 4.690 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T07:33:11.579Z DELETE /users/65cc6a49ba5cc0dd83770ffw 400 3.396 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T07:33:25.549Z DELETE /users/65cc6a49ba5cc0dd83770ff1 404 7.326 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T07:33:39.071Z DELETE /users/65cc6a49ba5cc0dd83770ffd 204 4.452 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T07:35:02.008Z DELETE /users/65cc6a49ba5cc0dd83770ff8 204 17.256 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T07:52:28.639Z POST /users/login 200 88.604 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T07:54:00.025Z PUT /users/65cc6a49ba5cc0dd83770ff8 403 7.255 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T07:54:41.468Z PUT /users/65cc6a49ba5cc0dd83770ff8 403 14.372 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T07:55:05.269Z PUT /users/65cc6a49ba5cc0dd83770ff 403 13.280 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T07:55:13.799Z PUT /users/65cc6a49ba5cc0dd83770f 403 4.727 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T07:55:39.482Z PUT /users/65cc6a49ba5cc0dd8377100 403 3.510 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T07:56:17.896Z PUT /users/65cc6a49ba5cc0dd837710 400 13.851 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T07:56:45.340Z PUT /users/65cc6a49ba5cc0dd83771003 403 4.545 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T07:58:10.616Z PUT /users/65cc6a49ba5cc0dd83771002 200 31.546 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T07:58:36.618Z POST /users 200 71.871 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T07:59:00.458Z PUT /users/65cc6a49ba5cc0dd83771002 409 21.271 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T07:59:07.400Z PUT /users/65cc6a49ba5cc0dd83771002 200 10.598 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T08:04:54.672Z POST /users/login 404 14.578 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T08:05:58.487Z POST /users/login 401 84.727 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T08:06:34.215Z POST /users/login 200 73.436 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T08:06:54.504Z GET /users 403 6.494 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T08:07:14.161Z POST /users/login 404 3.870 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T08:07:34.471Z POST /users/login 404 3.359 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T08:08:42.483Z POST /users/login 200 70.396 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T08:08:50.270Z GET /users 200 7.221 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T08:24:07.241Z GET /users/1 401 15.472 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T08:25:49.779Z GET /users/1 401 11.464 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T08:26:35.424Z POST /users/login 404 8.420 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T08:27:11.819Z POST /users/login 200 85.859 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T08:27:21.048Z GET /users/1 400 3.785 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T08:27:36.858Z GET /users/65cc72acf466ab25a87b9d24 404 9.388 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T08:27:42.200Z GET /users/65cc72acf466ab25a87b9d23 200 5.198 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T08:43:40.087Z POST /users 200 73.069 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T08:44:04.883Z POST /users/login 200 70.106 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T08:44:11.276Z POST /users/login 401 71.093 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T08:44:12.990Z POST /users/login 401 68.940 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T08:44:14.150Z POST /users/login 401 76.610 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T08:45:52.077Z GET /users/65cc7d3cb1ab00333829502c 200 5.242 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T08:50:49.314Z GET /users/65cc7d3cb1ab00333829502c 403 21.003 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T09:27:23.662Z POST /users/login 429 20.979 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T09:27:38.780Z POST /users/login 401 80.788 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T09:40:54.657Z POST /users/login 500 93.831 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T09:41:53.085Z POST /users/login 401 91.771 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T09:43:42.936Z POST /users/login 429 8.383 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T09:46:55.962Z POST /users/login 401 70.680 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T09:54:41.692Z POST /users/login 429 18.748 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T09:55:00.152Z POST /users/login 401 79.721 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T09:56:37.851Z POST /users/login 401 92.983 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T09:57:24.285Z POST /users/login 200 90.734 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T09:59:21.601Z PATCH /users/65c218a52f7d46bf94c8ed56 401 3.368 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T11:01:05.557Z POST /users/login 404 21.674 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T11:01:17.484Z POST /users/login 404 4.698 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T11:01:25.372Z POST /users/login 401 98.177 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T11:01:44.080Z POST /users/login 401 75.213 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T11:02:08.981Z POST /users/login 429 4.277 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T11:02:28.898Z POST /users/login 200 76.683 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T11:02:39.589Z PATCH /users/65c218a52f7d46bf94c8ed56 403 4.344 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T11:02:49.096Z POST /users/login 200 73.803 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T11:03:09.326Z PATCH /users/65c218a52f7d46bf94c8ed56 403 3.792 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T11:03:54.540Z PATCH /users/65cc7d3cb1ab00333829502c 200 10.016 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T11:04:45.653Z DELETE /users/65cc6a49ba5cc0dd83771002 200 5.613 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T11:05:18.872Z GET /users/65cc72acf466ab25a87b9d23 403 6.836 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T11:05:43.176Z POST /users/login 200 71.741 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T11:05:53.561Z GET /users/65cc72acf466ab25a87b9d23 403 9.050 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T11:09:17.377Z POST /users/login 200 68.926 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T11:09:48.776Z GET /users/65cc72acf466ab25a87b9d23 403 6.278 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T11:12:08.067Z GET /users/65cc72acf466ab25a87b9d23 500 25.880 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T11:12:32.461Z GET /users/65cc72acf466ab25a87b9d23 200 25.397 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T11:15:22.380Z POST /users/login 500 12.946 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T11:15:39.298Z POST /users/login 500 6.775 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T11:18:04.646Z GET /users/65cc72acf466ab25a87b9d2 400 16.015 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T11:18:33.769Z GET /users/65cc72acf466ab25a87b9d2 400 12.718 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T11:18:47.881Z GET /users/65cc72acf466ab25a87b9d2 400 4.003 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T11:19:48.235Z GET /users/65cc72acf466ab25a87b9d2 400 13.895 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T11:21:20.247Z GET /users/65cc72acf466ab25a87b9d2 500 15.590 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T11:21:37.995Z GET /users/65cc72acf466ab25a87b9d2 400 14.723 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T11:22:54.326Z GET /users/65cc72acf466ab25a87b9d2 400 34.258 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T11:24:44.934Z POST /users/login 200 99.042 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T11:25:04.881Z PUT /users/65cc6a49ba5cc0dd8377100 400 11.744 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T11:25:41.660Z PUT /users/65cc6a49ba5cc0dd8377100 400 16.549 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T18:02:23.826Z POST /users/login 200 99.786 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T18:02:44.256Z PATCH /cards/edit-biznumber/65cbb6178db1bd7a444307b 500 8.887 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T18:15:55.916Z POST /users 400 13.580 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T18:16:30.172Z POST /users 400 3.108 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T18:18:16.728Z POST /users 400 3.040 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T18:18:27.543Z POST /users 400 2.550 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T18:18:47.979Z POST /users 400 1.640 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T18:19:17.720Z POST /users 400 1.931 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T18:19:39.954Z POST /users 400 2.041 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T18:20:37.806Z POST /users 400 1.409 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T18:30:23.960Z POST /users/login 500 103.172 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T18:30:47.066Z POST /users/login 401 93.284 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T18:30:55.562Z POST /users/login 401 73.873 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T18:38:54.299Z POST /users/login 429 17.205 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T18:40:56.691Z POST /users 200 85.648 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T18:41:35.712Z POST /users/login 200 86.286 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T18:42:46.378Z POST /cards 400 6.228 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T18:43:26.639Z POST /cards 400 7.601 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T18:43:33.267Z POST /cards 201 18.838 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T18:44:38.414Z POST /users/login 401 71.538 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T18:45:24.612Z POST /users/login 200 72.845 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T18:46:06.871Z POST /cards 401 1.753 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T18:46:21.230Z POST /users/login 200 70.755 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T18:46:36.710Z POST /cards 403 3.546 ms',
+  level: 'info'
+}
+{
+  message: '2024-02-14T19:13:12.082Z POST /users/login 200 97.565 ms',
+  level: 'info'
+}

@@ -1,0 +1,108 @@
+{
+  status: 401,
+  message: 'User not authorized',
+  level: 'error',
+  timestamp: '2024-02-13T09:40:36.149Z'
+}
+{
+  status: 401,
+  message: 'User not authorized',
+  level: 'error',
+  timestamp: '2024-02-13T09:41:44.992Z'
+}
+{
+  status: 401,
+  message: 'User not authorized',
+  level: 'error',
+  timestamp: '2024-02-13T10:02:33.639Z'
+}
+{
+  status: 401,
+  message: 'User not authorized',
+  level: 'error',
+  timestamp: '2024-02-13T10:04:52.842Z'
+}
+{
+  status: 400,
+  message: 'Argument passed in must be a single String of 12 bytes or a string of 24 hex characters',
+  level: 'error',
+  timestamp: '2024-02-13T17:25:01.462Z'
+}
+{
+  status: 500,
+  message: 'Invalid status code: logged in successfully',
+  level: 'error',
+  timestamp: '2024-02-13T18:11:08.324Z'
+}
+{
+  status: 500,
+  message: 'Invalid status code: logged in successfully',
+  level: 'error',
+  timestamp: '2024-02-13T18:31:56.490Z'
+}
+{
+  status: 404,
+  message: 'Email not found',
+  level: 'error',
+  timestamp: '2024-02-13T18:45:30.880Z'
+}
+{
+  status: 500,
+  message: 'User.save is not a function',
+  level: 'error',
+  timestamp: '2024-02-13T18:46:00.621Z'
+}
+{
+  status: 500,
+  message: 'loginAttempts is not defined',
+  level: 'error',
+  timestamp: '2024-02-13T18:48:20.749Z'
+}
+{
+  status: 401,
+  message: 'email or password are incorrect, attempts until acount lock: 1',
+  level: 'error',
+  timestamp: '2024-02-13T18:49:01.831Z'
+}
+{
+  status: 401,
+  message: 'email or password are incorrect, attempts until acount lock: 3',
+  level: 'error',
+  timestamp: '2024-02-13T18:49:11.272Z'
+}
+{
+  status: 401,
+  message: 'email or password are incorrect, attempts until acount lock: 2',
+  level: 'error',
+  timestamp: '2024-02-13T18:59:03.907Z'
+}
+{
+  status: 401,
+  message: 'email or password are incorrect, attempts until acount lock: 1',
+  level: 'error',
+  timestamp: '2024-02-13T18:59:17.100Z'
+}
+{
+  status: 401,
+  message: 'email or password are incorrect, attempts until acount lock: 2',
+  level: 'error',
+  timestamp: '2024-02-13T18:59:50.719Z'
+}
+{
+  status: 401,
+  message: 'email or password are incorrect, attempts until acount lock: 1',
+  level: 'error',
+  timestamp: '2024-02-13T18:59:53.910Z'
+}
+{
+  status: 401,
+  message: 'email or password are incorrect, attempts until acount lock: 3',
+  level: 'error',
+  timestamp: '2024-02-13T18:59:55.827Z'
+}
+{
+  status: 429,
+  message: "After three unsuccessful login attempts, we've locked your account for security reasons. Please reach out to the administrator or wait for 24 hours before trying again.",
+  level: 'error',
+  timestamp: '2024-02-13T19:00:06.365Z'
+}

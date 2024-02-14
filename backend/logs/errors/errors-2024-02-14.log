@@ -1,0 +1,562 @@
+{
+  status: 500,
+  message: 'Invalid status code: User created successfully',
+  level: 'error',
+  timestamp: '2024-02-13T23:58:13.094Z'
+}
+{
+  status: 409,
+  message: 'The email is taken. please choose another email address',
+  level: 'error',
+  timestamp: '2024-02-13T23:59:47.304Z'
+}
+{
+  status: 401,
+  message: 'email or password are incorrect, attempts until acount lock: 2',
+  level: 'error',
+  timestamp: '2024-02-14T00:14:09.187Z'
+}
+{
+  status: 500,
+  message: "Cannot read properties of undefined (reading 'toString')",
+  level: 'error',
+  timestamp: '2024-02-14T00:37:41.024Z'
+}
+{
+  status: 403,
+  message: 'user not authorized to delete',
+  level: 'error',
+  timestamp: '2024-02-14T00:40:08.695Z'
+}
+{
+  status: 403,
+  message: 'user not authorized to delete',
+  level: 'error',
+  timestamp: '2024-02-14T00:40:26.469Z'
+}
+{
+  status: 429,
+  message: "After three unsuccessful login attempts, we've locked your account for security reasons. Please reach out to the administrator or wait for 24 hours before trying again.",
+  level: 'error',
+  timestamp: '2024-02-14T00:40:39.600Z'
+}
+{
+  status: 400,
+  message: 'Argument passed in must be a single String of 12 bytes or a string of 24 hex characters',
+  level: 'error',
+  timestamp: '2024-02-14T00:41:26.471Z'
+}
+{
+  status: 500,
+  message: "Cannot read properties of undefined (reading 'toString')",
+  level: 'error',
+  timestamp: '2024-02-14T00:59:52.252Z'
+}
+{
+  status: 403,
+  message: 'User not authorized to edit this card',
+  level: 'error',
+  timestamp: '2024-02-14T01:00:12.159Z'
+}
+{
+  status: 404,
+  message: 'Card not found',
+  level: 'error',
+  timestamp: '2024-02-14T01:00:23.737Z'
+}
+{
+  status: 403,
+  message: 'User not authorized to edit this card',
+  level: 'error',
+  timestamp: '2024-02-14T01:01:10.311Z'
+}
+{
+  status: 404,
+  message: 'Card not found',
+  level: 'error',
+  timestamp: '2024-02-14T01:17:38.642Z'
+}
+{
+  status: 404,
+  message: 'Card not found',
+  level: 'error',
+  timestamp: '2024-02-14T01:26:38.865Z'
+}
+{
+  status: 500,
+  message: 'Assignment to constant variable.',
+  level: 'error',
+  timestamp: '2024-02-14T01:26:53.945Z'
+}
+{
+  status: 500,
+  message: 'Assignment to constant variable.',
+  level: 'error',
+  timestamp: '2024-02-14T01:27:42.609Z'
+}
+{
+  status: 500,
+  message: 'Parameter "filter" to findOneAndUpdate() must be an object, got "65cbb6178db1bd7a444307b8" (type string)',
+  level: 'error',
+  timestamp: '2024-02-14T01:35:18.672Z'
+}
+{
+  status: 403,
+  message: 'Not authorized to delete user',
+  level: 'error',
+  timestamp: '2024-02-14T07:32:10.927Z'
+}
+{
+  status: 403,
+  message: 'Not authorized to delete user',
+  level: 'error',
+  timestamp: '2024-02-14T07:32:23.726Z'
+}
+{
+  status: 400,
+  message: 'Argument passed in must be a single String of 12 bytes or a string of 24 hex characters',
+  level: 'error',
+  timestamp: '2024-02-14T07:32:52.448Z'
+}
+{
+  status: 400,
+  message: 'Argument passed in must be a single String of 12 bytes or a string of 24 hex characters',
+  level: 'error',
+  timestamp: '2024-02-14T07:33:11.578Z'
+}
+{
+  status: 404,
+  message: 'User not found',
+  level: 'error',
+  timestamp: '2024-02-14T07:33:25.548Z'
+}
+{
+  status: 403,
+  message: 'user not authorized',
+  level: 'error',
+  timestamp: '2024-02-14T07:54:00.023Z'
+}
+{
+  status: 403,
+  message: 'user not authorized to edit other users',
+  level: 'error',
+  timestamp: '2024-02-14T07:54:41.461Z'
+}
+{
+  status: 403,
+  message: 'User not authorized to edit other users',
+  level: 'error',
+  timestamp: '2024-02-14T07:55:05.262Z'
+}
+{
+  status: 403,
+  message: 'User not authorized to edit other users',
+  level: 'error',
+  timestamp: '2024-02-14T07:55:13.798Z'
+}
+{
+  status: 403,
+  message: 'User not authorized to edit other users',
+  level: 'error',
+  timestamp: '2024-02-14T07:55:39.481Z'
+}
+{
+  status: 400,
+  message: 'Argument passed in must be a single String of 12 bytes or a string of 24 hex characters',
+  level: 'error',
+  timestamp: '2024-02-14T07:56:17.890Z'
+}
+{
+  status: 403,
+  message: 'User not authorized to edit other users',
+  level: 'error',
+  timestamp: '2024-02-14T07:56:45.339Z'
+}
+{
+  status: 409,
+  message: 'The email is taken. please choose another email address',
+  level: 'error',
+  timestamp: '2024-02-14T07:59:00.456Z'
+}
+{
+  status: 404,
+  message: 'Email not found',
+  level: 'error',
+  timestamp: '2024-02-14T08:04:54.665Z'
+}
+{
+  status: 401,
+  message: 'email or password are incorrect, attempts until acount lock: 2',
+  level: 'error',
+  timestamp: '2024-02-14T08:05:58.486Z'
+}
+{
+  status: 403,
+  message: 'User not authorized',
+  level: 'error',
+  timestamp: '2024-02-14T08:06:54.503Z'
+}
+{
+  status: 404,
+  message: 'Email not found',
+  level: 'error',
+  timestamp: '2024-02-14T08:07:14.160Z'
+}
+{
+  status: 404,
+  message: 'Email not found',
+  level: 'error',
+  timestamp: '2024-02-14T08:07:34.470Z'
+}
+{
+  status: 401,
+  message: 'User not authorized',
+  level: 'error',
+  timestamp: '2024-02-14T08:24:07.232Z'
+}
+{
+  status: 401,
+  message: 'User not logged in',
+  level: 'error',
+  timestamp: '2024-02-14T08:25:49.771Z'
+}
+{
+  status: 404,
+  message: 'Email not found',
+  level: 'error',
+  timestamp: '2024-02-14T08:26:35.423Z'
+}
+{
+  status: 400,
+  message: 'Invalid user ID format',
+  level: 'error',
+  timestamp: '2024-02-14T08:27:21.047Z'
+}
+{
+  status: 404,
+  message: 'User not found',
+  level: 'error',
+  timestamp: '2024-02-14T08:27:36.857Z'
+}
+{
+  status: 401,
+  message: 'email or password are incorrect, attempts until acount lock: 2',
+  level: 'error',
+  timestamp: '2024-02-14T08:44:11.275Z'
+}
+{
+  status: 401,
+  message: 'email or password are incorrect, attempts until acount lock: 1',
+  level: 'error',
+  timestamp: '2024-02-14T08:44:12.989Z'
+}
+{
+  status: 401,
+  message: 'email or password are incorrect, attempts until acount lock: 3',
+  level: 'error',
+  timestamp: '2024-02-14T08:44:14.148Z'
+}
+{
+  status: 403,
+  message: 'User not Authorized',
+  level: 'error',
+  timestamp: '2024-02-14T08:50:49.307Z'
+}
+{
+  status: 429,
+  message: "After three unsuccessful login attempts, we've locked your account for security reasons. Please reach out to the administrator or wait for 24 hours before trying again.",
+  level: 'error',
+  timestamp: '2024-02-14T09:27:23.655Z'
+}
+{
+  status: 401,
+  message: 'email or password are incorrect, attempts until acount lock: 2',
+  level: 'error',
+  timestamp: '2024-02-14T09:27:38.779Z'
+}
+{
+  status: 401,
+  message: 'email or password are incorrect, attempts until acount lock: 1',
+  level: 'error',
+  timestamp: '2024-02-14T09:40:54.648Z'
+}
+{
+  status: 401,
+  message: 'email or password are incorrect, attempts until acount lock: 3',
+  level: 'error',
+  timestamp: '2024-02-14T09:41:53.078Z'
+}
+{
+  status: 429,
+  message: "After three unsuccessful login attempts, we've locked your account for security reasons. Please reach out to the administrator or wait for 24 hours before trying again.",
+  level: 'error',
+  timestamp: '2024-02-14T09:43:42.935Z'
+}
+{
+  status: 401,
+  message: 'email or password are incorrect, attempts until acount lock: 2',
+  level: 'error',
+  timestamp: '2024-02-14T09:46:55.961Z'
+}
+{
+  status: 429,
+  message: "After three unsuccessful login attempts, we've locked your account for security reasons. Please reach out to the administrator or wait for 24 hours before trying again.",
+  level: 'error',
+  timestamp: '2024-02-14T09:54:41.683Z'
+}
+{
+  status: 401,
+  message: 'email or password are incorrect, attempts until acount lock: 2',
+  level: 'error',
+  timestamp: '2024-02-14T09:55:00.149Z'
+}
+{
+  status: 401,
+  message: 'email or password are incorrect, attempts until acount lock: 1',
+  level: 'error',
+  timestamp: '2024-02-14T09:56:37.843Z'
+}
+{
+  status: 401,
+  message: 'User not logged in',
+  level: 'error',
+  timestamp: '2024-02-14T09:59:21.600Z'
+}
+{
+  status: 404,
+  message: 'Email not found',
+  level: 'error',
+  timestamp: '2024-02-14T11:01:05.541Z'
+}
+{
+  status: 404,
+  message: 'Email not found',
+  level: 'error',
+  timestamp: '2024-02-14T11:01:17.482Z'
+}
+{
+  status: 401,
+  message: 'email or password are incorrect, attempts until acount lock: 1',
+  level: 'error',
+  timestamp: '2024-02-14T11:01:25.371Z'
+}
+{
+  status: 401,
+  message: 'email or password are incorrect, attempts until acount lock: 3',
+  level: 'error',
+  timestamp: '2024-02-14T11:01:44.079Z'
+}
+{
+  status: 429,
+  message: "After three unsuccessful login attempts, we've locked your account for security reasons. Please reach out to the administrator or wait for 24 hours before trying again.",
+  level: 'error',
+  timestamp: '2024-02-14T11:02:08.980Z'
+}
+{
+  status: 403,
+  message: 'User not Authorized',
+  level: 'error',
+  timestamp: '2024-02-14T11:02:39.587Z'
+}
+{
+  status: 403,
+  message: 'User not Authorized',
+  level: 'error',
+  timestamp: '2024-02-14T11:03:09.325Z'
+}
+{
+  status: 403,
+  message: 'User not Authorized',
+  level: 'error',
+  timestamp: '2024-02-14T11:05:18.871Z'
+}
+{
+  status: 403,
+  message: 'User not Authorized',
+  level: 'error',
+  timestamp: '2024-02-14T11:05:53.560Z'
+}
+{
+  status: 403,
+  message: 'User not Authorized',
+  level: 'error',
+  timestamp: '2024-02-14T11:09:48.775Z'
+}
+{
+  status: 500,
+  message: 'isAdmin is not defined',
+  level: 'error',
+  timestamp: '2024-02-14T11:12:08.061Z'
+}
+{
+  message: { status: 500, message: '' },
+  level: 'error',
+  timestamp: '2024-02-14T11:15:22.373Z'
+}
+{
+  message: { status: 500, message: '' },
+  level: 'error',
+  timestamp: '2024-02-14T11:15:39.291Z'
+}
+{
+  status: 400,
+  message: 'Invalid user ID format',
+  level: 'error',
+  timestamp: '2024-02-14T11:18:04.638Z'
+}
+{
+  status: 400,
+  message: 'Invalid user ID format',
+  level: 'error',
+  timestamp: '2024-02-14T11:18:33.762Z'
+}
+{
+  status: 400,
+  message: 'Invalid user ID format',
+  level: 'error',
+  timestamp: '2024-02-14T11:18:47.879Z'
+}
+{
+  status: 400,
+  message: 'Invalid user ID format',
+  level: 'error',
+  timestamp: '2024-02-14T11:19:48.228Z'
+}
+{
+  status: 500,
+  message: 'Cast to ObjectId failed for value "65cc72acf466ab25a87b9d2" (type string) at path "_id" for model "users"',
+  level: 'error',
+  timestamp: '2024-02-14T11:21:20.241Z'
+}
+{
+  status: 400,
+  message: 'Invalid user ID format',
+  level: 'error',
+  timestamp: '2024-02-14T11:21:37.988Z'
+}
+{
+  status: 400,
+  message: 'Invalid user ID format',
+  level: 'error',
+  timestamp: '2024-02-14T11:22:54.309Z'
+}
+{
+  status: 400,
+  message: 'Argument passed in must be a single String of 12 bytes or a string of 24 hex characters',
+  level: 'error',
+  timestamp: '2024-02-14T11:25:04.878Z'
+}
+{
+  status: 400,
+  message: 'Argument passed in must be a single String of 12 bytes or a string of 24 hex characters',
+  level: 'error',
+  timestamp: '2024-02-14T11:25:41.651Z'
+}
+{
+  status: 500,
+  message: 'Cast to ObjectId failed for value "65cbb6178db1bd7a444307b" (type string) at path "_id" for model "cards"',
+  level: 'error',
+  timestamp: '2024-02-14T18:02:44.254Z'
+}
+{
+  status: 400,
+  message: '"name.first" must be a string',
+  level: 'error',
+  timestamp: '2024-02-14T18:15:55.901Z'
+}
+{
+  status: 400,
+  message: '"name.first" must be a string,"name.last" length must be at least 2 characters long',
+  level: 'error',
+  timestamp: '2024-02-14T18:16:30.170Z'
+}
+{
+  status: 400,
+  message: '"name.first" must be a string,"name.last" length must be at least 2 characters long,Email must be a valid email address',
+  level: 'error',
+  timestamp: '2024-02-14T18:18:16.727Z'
+}
+{
+  status: 400,
+  message: '"name.first" must be a string,"name.last" length must be at least 2 characters long,Phone number must be a valid phone number,Email must be a valid email address',
+  level: 'error',
+  timestamp: '2024-02-14T18:18:27.542Z'
+}
+{
+  status: 400,
+  message: '"name.first" must be a string,"name.last" length must be at least 2 characters long,Email must be a valid email address',
+  level: 'error',
+  timestamp: '2024-02-14T18:18:47.978Z'
+}
+{
+  status: 400,
+  message: '"name.first" must be a string,"name.last" length must be at least 2 characters long,Email must be a valid email address,password must have at least 6 charecters, 1 capital letter, 1 lowercase letter, 1 special character(!@#$%^&*-), and 1 numeric character.',
+  level: 'error',
+  timestamp: '2024-02-14T18:19:17.719Z'
+}
+{
+  status: 400,
+  message: '"name.first" must be a string,"name.last" length must be at least 2 characters long,Email must be a valid email address,password must have at least 6 charecters, 1 capital letter, 1 lowercase letter, 1 special character(!@#$%^&*-), and 1 numeric character.,"address.country" is required',
+  level: 'error',
+  timestamp: '2024-02-14T18:19:39.953Z'
+}
+{
+  status: 400,
+  message: '"somthing" is not allowed',
+  level: 'error',
+  timestamp: '2024-02-14T18:20:37.806Z'
+}
+{
+  status: 500,
+  message: 'loginAttempts is not defined',
+  level: 'error',
+  timestamp: '2024-02-14T18:30:23.952Z'
+}
+{
+  status: 401,
+  message: 'email or password are incorrect, attempts until acount lock: 1',
+  level: 'error',
+  timestamp: '2024-02-14T18:30:47.059Z'
+}
+{
+  status: 401,
+  message: 'email or password are incorrect, attempts until acount lock: 3',
+  level: 'error',
+  timestamp: '2024-02-14T18:30:55.560Z'
+}
+{
+  status: 429,
+  message: "After three unsuccessful login attempts, we've locked your account for security reasons. Please reach out to the administrator or wait for 24 hours before trying again.",
+  level: 'error',
+  timestamp: '2024-02-14T18:38:54.292Z'
+}
+{
+  status: 400,
+  message: 'Email must be a valid email address,web url must contain a valid url,Image url must be a valid url',
+  level: 'error',
+  timestamp: '2024-02-14T18:42:46.377Z'
+}
+{
+  status: 400,
+  message: '"bizNumber" is not allowed',
+  level: 'error',
+  timestamp: '2024-02-14T18:43:26.637Z'
+}
+{
+  status: 401,
+  message: '  email or password are incorrect',
+  level: 'error',
+  timestamp: '2024-02-14T18:44:38.413Z'
+}
+{
+  status: 401,
+  message: 'User not logged in',
+  level: 'error',
+  timestamp: '2024-02-14T18:46:06.870Z'
+}
+{
+  status: 403,
+  message: 'User is not a business user!',
+  level: 'error',
+  timestamp: '2024-02-14T18:46:36.709Z'
+}

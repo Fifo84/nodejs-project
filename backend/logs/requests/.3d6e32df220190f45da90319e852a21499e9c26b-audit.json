@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\WINDOWS10\\Desktop\\nodejs-project\\file-transfer\\backend\\logs\\requests\\.3d6e32df220190f45da90319e852a21499e9c26b-audit.json",
+    "files": [
+        {
+            "date": 1707815233333,
+            "name": "C:\\Users\\WINDOWS10\\Desktop\\nodejs-project\\file-transfer\\backend\\logs\\requests\\request-2024-02-13.log",
+            "hash": "bb09f2abf49b44c61a7f51f6631d25f7ce1b09e4c652c12e38ea3178c0be3ea8"
+        },
+        {
+            "date": 1707864294253,
+            "name": "C:\\Users\\WINDOWS10\\Desktop\\nodejs-project\\file-transfer\\backend\\logs\\requests\\request-2024-02-14.log",
+            "hash": "234ffa4156cf4cc6cce826a5357d00fa6876b4849035de34f5179529db730281"
+        }
+    ],
+    "hashType": "sha256"
+}
